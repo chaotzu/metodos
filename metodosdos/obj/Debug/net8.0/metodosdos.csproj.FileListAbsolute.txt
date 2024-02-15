@@ -1,0 +1,14 @@
+/Users/jdiazm/Projects/metodosdos/metodosdos/bin/Debug/net8.0/metodosdos
+/Users/jdiazm/Projects/metodosdos/metodosdos/bin/Debug/net8.0/metodosdos.deps.json
+/Users/jdiazm/Projects/metodosdos/metodosdos/bin/Debug/net8.0/metodosdos.runtimeconfig.json
+/Users/jdiazm/Projects/metodosdos/metodosdos/bin/Debug/net8.0/metodosdos.dll
+/Users/jdiazm/Projects/metodosdos/metodosdos/bin/Debug/net8.0/metodosdos.pdb
+/Users/jdiazm/Projects/metodosdos/metodosdos/obj/Debug/net8.0/metodosdos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jdiazm/Projects/metodosdos/metodosdos/obj/Debug/net8.0/metodosdos.AssemblyInfoInputs.cache
+/Users/jdiazm/Projects/metodosdos/metodosdos/obj/Debug/net8.0/metodosdos.AssemblyInfo.cs
+/Users/jdiazm/Projects/metodosdos/metodosdos/obj/Debug/net8.0/metodosdos.csproj.CoreCompileInputs.cache
+/Users/jdiazm/Projects/metodosdos/metodosdos/obj/Debug/net8.0/metodosdos.dll
+/Users/jdiazm/Projects/metodosdos/metodosdos/obj/Debug/net8.0/refint/metodosdos.dll
+/Users/jdiazm/Projects/metodosdos/metodosdos/obj/Debug/net8.0/metodosdos.pdb
+/Users/jdiazm/Projects/metodosdos/metodosdos/obj/Debug/net8.0/metodosdos.genruntimeconfig.cache
+/Users/jdiazm/Projects/metodosdos/metodosdos/obj/Debug/net8.0/ref/metodosdos.dll
